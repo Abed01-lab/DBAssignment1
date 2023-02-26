@@ -1,6 +1,3 @@
-I would not denormalize the design anymore than this. Because any more than this will result in duplication of data.
-If the need arises to denormalize the design for better performance in the future, we can reduce the address relationships, to become more performant.
-
 ## Setup
 ### Starting server
 ```console
