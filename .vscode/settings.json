@@ -1,0 +1,5 @@
+{
+	"dataworkspace.excludedProjects": [
+		"mssql/data/skole/skole.sqlproj"
+	]
+}
